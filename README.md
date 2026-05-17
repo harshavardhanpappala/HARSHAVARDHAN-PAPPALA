@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Fullstack**
 - 🤝 I’m looking to help with **Data-Base And API'S**
 - 💬 Ask me about **My College**
-- 📫 How to reach me **cit24ht1a6185@gmail.com**
+- 📧 Contact me **cit24ht1a6185@gmail.com**
 - ⚡ Fun fact **I'm an AI & ML student training web applications to think, while my brain trains on coffee and clean code!**
 
 ---
